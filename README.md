@@ -41,7 +41,7 @@ Creates a rogue access point (AP) that mimics a legitimate network.
 By this attack you can typically sets up a rogue AP with the same name and security settings as the legitimate AP, and then tricks users into connecting to the fake AP. Once connected, the attacker can intercept and monitor traffic, stealing sensitive data or sensitive information. 
 
 ### Note: 1] Arduino IDE & ESP IDF Compatible.
-###       2]This project isn't open source that's why if u Need Source code? Contact with me--> tanjibisham777@gmail.com
+###       2] This project isn't open source that's why if u Need Source code? Contact with me--> tanjibisham777@gmail.com
 
 # Use Case:
 This tool for penetration testers, security researchers, and IT professionals looking to evaluate the security of fidelity networks. Its portable design ensures ease of use in various environments, making it a reliable companion for ethical hacking and vulnerability  assessments.
