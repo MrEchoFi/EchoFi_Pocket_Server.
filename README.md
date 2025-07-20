@@ -26,6 +26,10 @@ https://github.com/user-attachments/assets/3d913c1b-ac60-40c7-9285-f65c1a542090
 Category: Portable Penetration Testing Device
 
 Size: Compact and Portable</p>
+
+# Photo:
+![EchoFi_Pocket_Server SS](https://github.com/user-attachments/assets/a0d80d46-84fe-4937-9a7a-856df68f85c3)
+
       
 # Overview:::
 
