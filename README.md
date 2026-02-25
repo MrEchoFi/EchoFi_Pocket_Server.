@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/9a0c4f8b-80d4-472f-a7ad-340f05c3dbc1" alt="gif" width="500" height="auto" />
+    <img src="https://github.com/user-attachments/assets/9a0c4f8b-80d4-472f-a7ad-340f05c3dbc1" alt="gif" width="400" height="auto" />
 
 </div>
 
@@ -27,7 +27,14 @@ Category: Portable Penetration Testing Device
 
 Size: Compact and Portable</p>
 
-# Photo:
+
+# Updated Body Design:
+![Pocket_server_img](https://github.com/user-attachments/assets/c5c6ea3b-3986-47e2-a2d6-3b5991fe8188)
+
+
+
+
+# Previous Photo:
 ![EchoFi_Pocket_Server SS](https://github.com/user-attachments/assets/a0d80d46-84fe-4937-9a7a-856df68f85c3)
 
       
@@ -35,36 +42,38 @@ Size: Compact and Portable</p>
 
 EchoFi_Pocket_Server is a compact and portable penetration testing tool designed for cybersecurity professionals and ethical hackers. This device is built to assess and analyze  networks, identify vulnerabilities, and perform advanced security tests. With three essential tools integrated, it provides a comprehensive approach to network security auditing. 
 
-This device contains "Mr.EchoFi Server" & inside this server you will see three comprehensive tools -[ Scan, Deauth , Evil twin attack ].
+This device contains "Mr.EchoFi Server" & inside this server you will see three comprehensive tools
+-[ Scan, Deauth , Evil twin attack ].
 
 And yeah, this device created for educational purpose. 
 
-# Features & Functionalities::::::::::\/
+# Features & Functionalities:
 
-1. Scan Tool->
+[1] Scan Tool->
+
 Captures surrounding Wi-Fi networks, collecting details such as:
 
- ~SSID (Network Name)
+- SSID (Network Name)
 
- ~Channel (CH) Information
+- Channel (CH) Information
 
- ~RSSI (Signal Strength Indicator)
+- RSSI (Signal Strength Indicator)
 
 Monitors network traffic, packets, and signal strength to analyze security risks.
 Provides real-time insights into network activity for auditing and assessment.
 
-2. Deauthentication (Deauth) Attack Tool->
+[2] Deauthentication (Deauth) Attack Tool->
 
 Disrupts communication between legitimate users and the targeted network.
 Prevents devices from maintaining a stable connection, making it difficult or impossible to connect.
 
- ~Useful for testing network resilience against denial-of-service (DoS) attacks.
+ - Useful for testing network resilience against denial-of-service (DoS) attacks.
 
-3. Evil Twin Attack Tool ->
+[3] Evil Twin Attack Tool ->
 
-Creates a rogue access point (AP) that mimics a legitimate network.
+- Creates a rogue access point (AP) that mimics a legitimate network.
 
-By this attack you can typically sets up a rogue AP with the same name and security settings as the legitimate AP, and then tricks users into connecting to the fake AP. Once connected, the attacker can intercept and monitor traffic, stealing sensitive data or sensitive information. 
+- By this attack you can typically sets up a rogue AP with the same name and security settings as the legitimate AP, and then tricks users into connecting to the fake AP. Once connected, the attacker can intercept and monitor traffic, stealing sensitive data or sensitive information. 
 
 ### Note:
 <pre>
